@@ -1,4 +1,4 @@
-# Text-Base-Game
+# Text-Based-Game
 The start of a text-based game.
 
 # Future Plans:
